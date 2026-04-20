@@ -103,7 +103,7 @@ Key insights:
 
 ---
 
-### 2. Random Forest ⭐ (Best Overall)  
+### 2. Random Forest
 - Ensemble learning method  
 - Captures non-linear relationships  
 - Provides feature importance  
